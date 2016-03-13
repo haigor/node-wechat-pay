@@ -1,0 +1,35 @@
+{
+  "name": "node-wechat-pay",
+  "version": "0.1.0",
+  "description": "wechat payment module for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuncreate/node-wechat-pay.git"
+  },
+  "keywords": [
+    "wechat",
+    "weixin",
+    "node.js",
+    "payment"
+  ],
+  "author": {
+    "name": "mengkeys",
+    "email": "mengkeys@hotmail.com",
+    "homepage": "www.mengkeys.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuncreate/node-wechat-pay/issues"
+  },
+  "homepage": "https://github.com/yuncreate/node-wechat-pay#readme",
+  "dependencies": {
+    "moment": "^2.12.0",
+    "request": "^2.69.0",
+    "underscore": "^1.8.3",
+    "xml2json": "^0.9.0"
+  }
+}

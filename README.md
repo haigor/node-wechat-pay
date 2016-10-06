@@ -1,5 +1,7 @@
 # node-wechat-pay &copy; mengkeys
 
+# <font color="red">特别提示：本库尚未完成，请勿使用。</font>
+
 ### <font color="red">&hearts;</font> 本模块所涵盖微信支付功能
 |  序号  | 功能 | 支持情况 | 文档链接 |
 | :---: |  --- | :---: |   ---   |

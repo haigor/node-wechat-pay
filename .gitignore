@@ -38,3 +38,9 @@ node_modules
 # Unit test derectory
 unit
 
+# local example derectory
+example
+
+# local data derecotry
+data
+
